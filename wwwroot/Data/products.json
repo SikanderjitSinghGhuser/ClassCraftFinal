@@ -1,0 +1,44 @@
+[
+
+  {
+    "Id": "Paproni pizza ",
+    "Maker": "pp",
+    "img": "https://plus.unsplash.com/premium_photo-1668771085743-1d2d19818140?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "Title": " Pizza with Paperoni toppings",
+    "Description": "Pepperoni Pizza: A classic and irresistible delight, pepperoni pizza is a mouthwatering combination of savory tomato sauce, melted cheese, and zesty pepperoni slices atop a crispy or fluffy crust. With its perfect blend of flavors and textures, this beloved pizza is a surefire hit for any pizza lover seeking a satisfying and delicious slice of comfort.",
+    "Ratings": null
+  },
+  {
+    "Description": "Classic Italian Pizza: A timeless culinary masterpiece, the classic Italian pizza embodies the essence of simplicity and authenticity. Made with a thin, crispy crust, the pizza is generously topped with vibrant tomato sauce, melted mozzarella cheese, and select traditional ingredients like fresh basil, ripe tomatoes, and olives. Each bite is a symphony of flavors that transports you to the picturesque streets of Italy, leaving you with a sense of culinary delight and cultural connection.",
+    "Id": "classic italian",
+    "img": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "Maker": "italian pizza",
+    "Ratings": null,
+    "Title": "Classic italian pizza"
+  },
+  {
+    "Id": "Loaded pizza ",
+    "Maker": "LP",
+    "img": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "Title": "Loaded Pizza",
+    "Description": "Loaded Classic Italian Pizza: Elevating the traditional Italian pizza to new heights of indulgence, the loaded version boasts an abundance of mouthwatering toppings that take your taste buds on a thrilling journey. A thick, pillowy crust serves as the canvas for a rich tomato sauce, gooey mozzarella cheese, and an array of delectable ingredients like savory pepperoni, zesty Italian sausage, flavorful mushrooms, sweet bell peppers, sliced onions, and briny black olives. This explosion of flavors and textures creates a pizza experience that is hearty, satisfying, and a celebration of the timeless Italian culinary heritage.",
+    "Ratings": null
+  },
+
+  {
+    "Id": "dv",
+    "Maker": "Indian",
+    "img": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "Title": "For Veg Customers ",
+    "Description": "Delicious vegetable, mushroom, and tomato pizza on a rustic black wooden background, perfect for food photography or design purposes.",
+    "Ratings": null
+  },
+  {
+    "Id": "ae",
+    "Maker": "Canadian",
+    "img": "https://images.unsplash.com/photo-1572552635104-daf938e0aa1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "Title": "For veg lovers",
+    "Description": "An exquisite Artisan Pizza with Provoletta, black olives, Parmesan cheese, and fresh sprouts at WESTIN SANTA FE - CDMX.",
+    "Ratings": null
+  }
+]

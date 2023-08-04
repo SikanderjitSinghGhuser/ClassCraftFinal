@@ -1,0 +1,32 @@
+﻿@page
+@model ClassCraftFinal.Pages.ProductListModel
+<!--
+ I am just a nice HTML comment :-)
+ <?php
+   php code...
+ ?>
+-->
+@{
+    // Here is my C# code just for fun :-)
+    int num1 = 10;
+    int num2 = 20;
+    int result = num1 + num2; 
+}
+
+<h1>Produt List</h1>
+
+@* We need to loop through the Products of our JSON file *@
+
+<div class="row products">
+@{
+    foreach (var product in Model.Products)
+    {
+          <div class="card-img" style="background-image: url('@product.Image');">
+          </div>
+
+        <div class="card-body text-center">
+            <h4 class="card-title">@product.Title</h4>
+        </div>
+    };
+}
+</div>
